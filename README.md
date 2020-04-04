@@ -1,6 +1,6 @@
 # Swarmathon in NetLogo
 
-<img src="https://github.com/jvioladevelops/Neuroevolution-Visualizer/blob/master/public/images/Neuroevolution.gif" width="900" height="400">
+<img src="https://github.com/jvioladevelops/Swarmathon-in-NetLogo/blob/master/Milestone%202/Swarmathongif.gif" width="900" height="600">
 
 ##
 
