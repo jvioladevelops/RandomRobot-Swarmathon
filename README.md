@@ -1,5 +1,6 @@
 # Swarmathon in NetLogo
 
+<img src="https://github.com/jvioladevelops/Neuroevolution-Visualizer/blob/master/public/images/Neuroevolution.gif" width="900" height="400">
 
 ##
 
