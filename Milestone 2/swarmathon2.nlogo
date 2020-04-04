@@ -1,15 +1,9 @@
  ;----------------------------------------------------------------------------------------------
 
 ; Author: Justin Viola
-; Date: 04/01/2019
 ; Title swarmathon2
 ; Swarmathon 2: Advanced Bio-Inspired Search
 ; version 1.0
-; School: Central New Mexico Community College
-; Course Number: CSCI 1108, Section 101
-; Course Title: CS for All: Introduction to Computer Modeling
-; Semester: Spring 2019
-; Instructor: Chu Jong
 
  ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
  ;;    Globals and Properties    ;;
