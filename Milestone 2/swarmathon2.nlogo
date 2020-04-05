@@ -4,6 +4,7 @@
 ; Title swarmathon2
 ; Swarmathon 2: Advanced Bio-Inspired Search
 ; version 1.0
+; A project to simulate robots collecting rocks and returning them to base.
 
  ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
  ;;    Globals and Properties    ;;
