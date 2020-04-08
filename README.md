@@ -6,7 +6,7 @@
 
 ## WHAT IS IT?
 
-This is a continuation off of MileStone 1 project. In this addition, robots leave a pheromone trail when they enounter a large pile of rocks. Other robots can then follow the pheromone trail. 
+This is a continuation off of MileStone 1 project. In this addition, robots leave a pheromone trail when they enounter a large pile of rocks. Other robots can then follow the pheromone trail. The robots find rock piles by randomly moving around the planet. 
 
 ## HOW IT WORKS
 
